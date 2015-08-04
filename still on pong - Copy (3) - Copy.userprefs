@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\DelegateMenu.cs">
+    <Files>
+      <File FileName="Assets\scripts\DelegateMenu.cs" Line="55" Column="92" />
+      <File FileName="Assets\scripts\ScoreUI.cs" Line="127" Column="21" />
+      <File FileName="Assets\scripts\player.cs" Line="22" Column="23" />
+      <File FileName="Assets\scripts\ball.cs" Line="60" Column="19" />
+      <File FileName="Assets\scripts\enemy.cs" Line="9" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
